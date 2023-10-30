@@ -1,0 +1,14 @@
+Working in a game development company as the Chief Technology Officer (CTO), my responsibility is to set the technology stack to be used by our development team for both our game and platform. Furthermore, part of my responsibility is architecting systems and applications to collect, process and store users data while playing our game and interacting with our platform. This places me in a unique situation to consider how to handle user's data ethically and how to make sure that their privacy remains private and compile with different regulatory bodies, agencies, rules, codes of conduct and regulations such as the GDRP. These issues become more challenging considering that I work with stakeholders who may not be fully aware of how to handle user's data or what regulatory bodies we as a company must adhere to.
+
+Reading Stahl et al. (2016), one of the most challenging issues looks to be privacy. The paper mentions a relationship between privacy, the internet and consent. In my field this is especially important when it comes to gaming platforms and online services. As a gaming company we must comply with GDPR (General Data Protection Regulation) which would mean allowing our players to delete their accounts, erase all of their data from our platform, encrypt and data, and make sure to anonymize their data and not request data that is unnecessary for our game and platform. While it is important to comply with the GDRP, it is even more important to garner the trust of our users and players because, without trust, the company's reputation and its products may be at risk.
+
+It is important to note that making sure our products and services are GDRP compliant may take time from adding new features to our games and platform, and some stakeholders may prioritize these new exciting features rather than being GDRP compliant. However, it is essential to remember that being GDRP compliant is not only important to avoid fines imposed by different governments, but also being GDRP compliant and protecting user's data will help us maintain the trust of our players and users, which is invaluable.
+ 
+ Additionally, another ethical topic that may arise is gender equality within the game development industry. This falls under the "Inclusion, Digital Divides" category in the work of Stahl et al. (2016). Studies have shown that women are underrepresented in the technology sector, and those who work in IT often face discriminatory workplace behaviour (K. White, 2023). Such behaviour can have long-term negative consequences for the organization, including economic and psychological effects.
+
+
+
+
+## References:
+K. White, S. (2023) Women in tech statistics: The hard truths of an uphill battle, CIO. Available at: https://www.cio.com/article/201905/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html (Accessed: 1 September 2023). 
+
